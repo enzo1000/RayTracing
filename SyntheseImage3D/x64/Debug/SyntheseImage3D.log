@@ -1,0 +1,6 @@
+﻿  Analyse des sources à la recherche des dépendances de module...
+  Main.cpp
+C:\Users\emartinez4\Desktop\Cours\Synthèse d'image 3D\Code en C++\SyntheseImage3D\Main.cpp(255,45): warning C4244: 'argument' : conversion de 'unsigned __int64' en 'float', perte possible de données
+C:\Users\emartinez4\Desktop\Cours\Synthèse d'image 3D\Code en C++\SyntheseImage3D\Main.cpp(310,34): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\emartinez4\Desktop\Cours\Synthèse d'image 3D\Code en C++\SyntheseImage3D\Main.cpp(313,34): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+  SyntheseImage3D.vcxproj -> C:\Users\emartinez4\Desktop\Cours\Synthèse d'image 3D\Code en C++\SyntheseImage3D\x64\Debug\SyntheseImage3D.exe

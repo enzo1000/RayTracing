@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SyntheseImage3D\\x64\\Debug\\Intersection.h.obj",
+            "outputs": [
+                "C:\\Users\\emartinez4\\Desktop\\Cours\\Synthèse d'image 3D\\Code en C++\\SyntheseImage3D\\SyntheseImage3D\\x64\\Debug\\vc143.pdb",
+                "SyntheseImage3D\\x64\\Debug\\",
+                "C:\\Users\\emartinez4\\Desktop\\Cours\\Synthèse d'image 3D\\Code en C++\\SyntheseImage3D\\SyntheseImage3D\\x64\\Debug\\Intersection.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Intersection.h",
+                    "source-path": "c:\\users\\emartinez4\\desktop\\cours\\synthèse d'image 3d\\code en c++\\syntheseimage3d\\intersection.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
